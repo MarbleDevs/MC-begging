@@ -27,3 +27,5 @@ rank with {rank}
 Username with {name}
 
 Color of rank with {color}
+
+#### If you made a big list of begs and want to share them text me on Dicord, my username is Blnix.
