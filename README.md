@@ -19,7 +19,7 @@ Install librarys:
 
 Run:
 
-    py begging.py
+    python begging.py
 
 ## If you want to add your own sentences, just edit begs.txt.
 Replace:
@@ -30,5 +30,4 @@ Username with {name}
 
 Color of rank with {color}
 
-#### If you made a big list of begs and want to share them, text me on Dicord, my username is Blnix.
- 
+#### Make a pull request, if you have a big list, that you want to share!
